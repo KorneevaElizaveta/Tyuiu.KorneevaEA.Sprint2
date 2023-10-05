@@ -19,7 +19,7 @@ namespace Tyuiu.KorneevaEA.Sprint2.Task1.V28
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
 
-            Console.Title = "Спринт #1 | Выполнила: Корнеева Е.А. | АСОиУб-23-3";
+            Console.Title = "Спринт #2 | Выполнила: Корнеева Е.А. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения.                                               *");
