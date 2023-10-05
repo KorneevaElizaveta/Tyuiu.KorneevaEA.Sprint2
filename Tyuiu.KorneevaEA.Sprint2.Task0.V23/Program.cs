@@ -17,11 +17,11 @@ namespace Tyuiu.KorneevaEA.Sprint2.Task0.V23
             bool[] res = new bool[6];
             res = ds.GetCompareOperations(x, y);
 
-            Console.Title = "Спринт #1 | Выполнила: Корнеева Е.А. | АСОиУб-23-3";
+            Console.Title = "Спринт #2 | Выполнила: Корнеева Е.А. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения.                                               *");
-            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнила: Корнеева Елизавета Андреевна | АСОиУб-23-3                   *");
             Console.WriteLine("***************************************************************************");
